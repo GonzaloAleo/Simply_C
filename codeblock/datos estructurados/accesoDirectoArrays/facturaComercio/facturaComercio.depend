@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1775529305 source:c:\users\ryzen\onedrive\desktop\c\codeblock\datos estructurados\accesodirectoarrays\facturacomercio\main.c
+	<stdio.h>
+	"facturacion.h"
+
+1775529159 c:\users\ryzen\onedrive\desktop\c\codeblock\datos estructurados\accesodirectoarrays\facturacomercio\facturacion.h
+
+1775529396 source:c:\users\ryzen\onedrive\desktop\c\codeblock\datos estructurados\accesodirectoarrays\facturacomercio\facturacion.c
+	<stdio.h>
+

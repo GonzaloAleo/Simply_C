@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1773500655 source:c:\users\ryzen\onedrive\desktop\c\codeblock\funciones\funciones.c
+
+1773500436 source:c:\users\ryzen\onedrive\desktop\c\codeblock\funciones\test.c
+	<stdio.h>
+	"funciones.h"
+
+1773499830 c:\users\ryzen\onedrive\desktop\c\codeblock\funciones\funciones.h
+

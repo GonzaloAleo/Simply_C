@@ -1,0 +1,2 @@
+
+long factorial (int n);

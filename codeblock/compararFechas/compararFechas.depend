@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1773502402 source:c:\users\ryzen\onedrive\desktop\c\codeblock\compararfechas\fechas.c
+
+1773502635 source:c:\users\ryzen\onedrive\desktop\c\codeblock\compararfechas\main.c
+	<stdio.h>
+	"fechas.h"
+
+1773502443 c:\users\ryzen\onedrive\desktop\c\codeblock\compararfechas\fechas.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1774136025 source:c:\users\ryzen\onedrive\desktop\c\codeblock\fechas\main.c
+	<stdio.h>
+	"funcionesFechas.h"
+
+1774132754 c:\users\ryzen\onedrive\desktop\c\codeblock\fechas\funcionesfechas.h
+
+1774134089 source:c:\users\ryzen\onedrive\desktop\c\codeblock\fechas\funcionesfechas.c
+

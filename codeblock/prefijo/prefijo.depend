@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1774812492 source:c:\users\ryzen\onedrive\desktop\c\codeblock\punterosacaracter\esprefijo.c
+	<string.h>
+
+1774813085 source:c:\users\ryzen\onedrive\desktop\c\codeblock\punterosacaracter\testprefijo.c
+	<stdio.h>
+	"esPrefijo.h"
+
+1774811050 c:\users\ryzen\onedrive\desktop\c\codeblock\punterosacaracter\esprefijo.h
+
+1774812979 source:c:\users\ryzen\onedrive\desktop\c\codeblock\punterosacaracter\essufijo.c
+	<string.h>
+
+1774812927 source:c:\users\ryzen\onedrive\desktop\c\codeblock\punterosacaracter\testsufijo.c
+	<stdio.h>
+	"esSufijo.h"
+
+1774812973 c:\users\ryzen\onedrive\desktop\c\codeblock\punterosacaracter\essufijo.h
+

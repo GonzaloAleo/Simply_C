@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1776611381 source:c:\users\ryzen\onedrive\desktop\c\codeblock\operacionesarrays\operacionessobrearrays\main.c
+	<stdio.h>
+	"funcionesArrays.h"
+
+1776552799 c:\users\ryzen\onedrive\desktop\c\codeblock\operacionesarrays\operacionessobrearrays\funcionesarrays.h
+
+1776552753 source:c:\users\ryzen\onedrive\desktop\c\codeblock\operacionesarrays\operacionessobrearrays\funcionesarrays.c
+

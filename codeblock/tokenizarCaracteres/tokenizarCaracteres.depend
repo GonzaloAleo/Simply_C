@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1774819298 source:c:\users\ryzen\onedrive\desktop\c\codeblock\tokenizarcaracteres\main.c
+	<stdio.h>
+	<string.h>
+

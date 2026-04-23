@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1774659969 source:c:\users\ryzen\onedrive\desktop\c\codeblock\caracteres\main.c
+	<stdio.h>
+	"sprintf.h"
+
+1774659817 c:\users\ryzen\onedrive\desktop\c\codeblock\caracteres\sprintf.h
+
+1774659756 source:c:\users\ryzen\onedrive\desktop\c\codeblock\caracteres\sprintf.c
+	<stdio.h>
+

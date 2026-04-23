@@ -1,0 +1,1 @@
+int esPrefijo(char*,char*);
